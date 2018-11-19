@@ -1,0 +1,16 @@
+{
+  "name": "Usage",
+  "version": "3.0.0",
+  "description": "Live demo",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/4j7m47vlm4",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "3.0.1",
+    "prop-types": "15.6.2",
+    "react": "latest",
+    "react-dom": "latest",
+    "recharts": "1.3.6"
+  }
+}
